@@ -1,0 +1,5 @@
+name: Desu
+version: 0.1.0
+author: IntrepidPig
+main: net.pigasus.desu.Desu
+api-version: 1.13
